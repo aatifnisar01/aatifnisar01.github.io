@@ -9,7 +9,7 @@ redirect_from:
 
 Check Out my Resume (Last Updated on: 14 July 2023)
 ======
-{(http://aatifnisar01.github.io/files/Resume_Aatif.pdf)}
+(http://aatifnisar01.github.io/files/Resume_Aatif.pdf)
 
 Publications
 ======
