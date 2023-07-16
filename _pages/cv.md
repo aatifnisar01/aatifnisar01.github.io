@@ -9,12 +9,9 @@ redirect_from:
 
 Check Out my Resume (Last Updated on: 14 July 2023)
 ======
-(http://aatifnisar01.github.io/files/Resume_Aatif.pdf)
+<a href="http://aatifnisar01.github.io/files/Resume_Aatif.pdf" download>Download my Resume</a>
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+
   
 
