@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Aatif Nisar Dar"
   avatar           : "profile.png"
-  bio              : "Write Bio"
-  location         : "Location"
+  bio              : "Computer vision enthusiast leveraging tech for social impact."
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/aatif-nisar-dar-6906ab153/"
   orcid            : 
   pinterest        :
   soundcloud       :

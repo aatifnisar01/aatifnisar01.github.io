@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-Check Out my Resume (Last Updated on: 14 July 2023)
+Check Out my CV (Last Updated on: 14 July 2023)
 ======
-<a href="http://aatifnisar01.github.io/files/Resume_Aatif.pdf" download>Download my Resume</a>
+<a href="http://aatifnisar01.github.io/files/Resume_Aatif.pdf" download>Download my CV</a>
 
 
 
