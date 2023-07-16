@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome to my portfolio website!
+## Hello!
 
 My name is Aatif, and I am a passionate computer scientist specializing in the field of computer vision. With a strong academic background and valuable research experience, I am eager to embark on a challenging journey towards a Ph.D. in the United States.
 
