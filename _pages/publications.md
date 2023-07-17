@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications
+
 
 <ul>
   <li>(Working Paper) "Economic Status Prediction Using Deep Learning on Household Images" (with Prof. Chetan Arora and Prof. Nandana Sengupta).</li>
