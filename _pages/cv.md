@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-======
+
 <a href="http://aatifnisar01.github.io/files/Resume_Aatif.pdf" download>Download my CV</a>
 
 
