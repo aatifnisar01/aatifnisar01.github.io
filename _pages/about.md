@@ -17,7 +17,7 @@ I completed my Bachelor's degree in Computer Science from Delhi University, wher
 
 ### Research Experience
 
-Currently, I am working as a Project Scientist at the esteemed Indian Institute of Technology (IIT) Delhi, collaborating closely with Professors Chetan Arora and Nandana Sengupta. As part of their research group, I have been actively involved in cutting-edge projects, exploring novel techniques and algorithms to tackle real-world computer vision challenges. This invaluable experience has sharpened my skills in image processing, object detection, and machine learning.
+Currently, I am working as a Project Scientist at the esteemed Indian Institute of Technology (IIT) Delhi, collaborating closely with Prof. Chetan Arora and and Prof. Nandana Sengupta. As part of their research group, I have been actively involved in cutting-edge projects, exploring novel techniques and algorithms to tackle real-world computer vision challenges. This invaluable experience has sharpened my skills in computer vision.
 
 ### Research Interests
 
