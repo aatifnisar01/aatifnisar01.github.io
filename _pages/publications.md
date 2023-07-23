@@ -20,3 +20,8 @@ author_profile: true
   <li><a href="https://medium.com/@aatifdar/image-to-image-translation-generative-adversarial-networks-92d0fe2a10d2">Image-to-Image Translation: Generative Adversarial Networks</a></li>
   <li><a href="https://medium.com/@aatifdar/partial-multi-label-gans-c443239738f1">Partial Multi-Label GANs</a></li>
 </ul>
+
+
+## Projects
+
+

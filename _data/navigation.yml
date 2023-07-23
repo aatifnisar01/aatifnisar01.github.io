@@ -1,14 +1,12 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publications and Projects"
     url: /publications/
 
 
   - title: "CV"
     url: /cv/
-    
-  - title: "Projects"
-    url: /C:\Users\Aatif\Downloads\aatifnisar01.github.io\_pages\projects.md/
+
 
   - title: "Contact"
     url: /markdown/
