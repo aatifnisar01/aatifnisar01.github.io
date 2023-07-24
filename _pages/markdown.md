@@ -7,7 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-## Contact
 
 You can reach out to me via email at:
 - aatif.dar11@gmail.com
