@@ -8,21 +8,29 @@ author_profile: true
 
 
 <ul>
-  <li>(Working Paper) "Economic Status Prediction Using Deep Learning on Household Images" (with Prof. Chetan Arora and Prof. Nandana Sengupta).</li>
-  <li>(Selected Paper) "MLGAN: Addressing Imbalance in Multilabel Learning Using Generative Adversarial Networks," <a href="https://www.ietcint.com/">ICETCI 2023</a> (with Prof. Reshma Rastogi).</li>
-  <li>(Lightly Peer-reviewed) Aatif Nisar Dar, "<a href="https://www.globalscientificjournal.com/researchpaper/Principal_Component_Analysis.pdf">Principal Component Analysis</a>" Global Scientific Journal. GSJ: Volume 9, Issue 7, July 2021, Online: ISSN 2320-9186.</li>
+  <li><em>“Economic status prediction using deep learning on household images,”</em> with Prof. Chetan Arora and Prof. Nandana Sengupta. (Working Paper)</li>
+  <li><strong>Aatif Nisar Dar</strong>, Reshma Rastogi, <em>“MLGAN: Addressing imbalance in multilabel learning using generative adversarial networks,”</em> <a href="https://www.ietcint.com/">ICETCI 2023</a>. (To Appear)</li>
+  <li><strong>Aatif Nisar Dar</strong>, <em>“Principal Component Analysis,”</em> Global Scientific Journal, GSJ: Volume 9, Issue 7, July 2021, Online: ISSN 2320-9186. (Lightly Peer-reviewed)</li>
 </ul>
 
 ## Articles
 
 <ul>
-  <li><a href="https://medium.com/@aatifdar/how-to-choose-the-best-classification-model-145817a70764">How to Choose the Best Classification Model</a></li>
-  <li><a href="https://medium.com/@aatifdar/image-to-image-translation-generative-adversarial-networks-92d0fe2a10d2">Image-to-Image Translation: Generative Adversarial Networks</a></li>
-  <li><a href="https://medium.com/@aatifdar/partial-multi-label-gans-c443239738f1">Partial Multi-Label GANs</a></li>
+  <li>
+    <strong>Aatif Nisar Dar</strong>, “How to Choose the Best Classification Model,”
+    <a href="https://medium.com/@aatifdar/how-to-choose-the-best-classification-model-145817a70764">Medium, Oct '22</a>.
+  </li>
+  <li>
+    <strong>Aatif Nisar Dar</strong>, “Partial Multi-Label GANs,”
+    <a href="https://medium.com/@aatifdar/partial-multi-label-gans-c443239738f1">Medium, Oct '21</a>.
+  </li>
+  <li>
+    <strong>Aatif Nisar Dar</strong>, “Image-To-Image Translation via Generative Adversarial Networks (GANs),”
+    <a href="https://medium.com/@aatifdar/image-to-image-translation-generative-adversarial-networks-92d0fe2a10d2">Medium, Dec '21</a>.
+  </li>
 </ul>
 
 
-## Projects
 ## Projects
 
 <ul>
