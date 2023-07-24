@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my portfolio website!"
+title: "Welcome to my website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,19 +9,23 @@ redirect_from:
 ---
 
 
-My name is Aatif, and I am a passionate computer scientist specializing in the field of computer vision. With a strong academic background and valuable research experience, I am eager to embark on a challenging journey towards a Ph.D. in the United States.
-
-### Education
+My name is Aatif, and I am a passionate computer scientist specializing in the field of computer vision. 
 
 I completed my Bachelor's degree in Computer Science from Delhi University, where I developed a solid foundation in various computer science disciplines. Building on this knowledge, I pursued my Master's degree in Computer Science from South Asian University, focusing on advanced topics in Machine Learning.
 
 ### Research Experience
 
-Currently, I am working as a Project Scientist at the esteemed Indian Institute of Technology (IIT) Delhi, collaborating closely with Prof. Chetan Arora and and Prof. Nandana Sengupta. As part of their research group, I have been actively involved in cutting-edge projects, exploring novel techniques and algorithms to tackle real-world computer vision challenges. This invaluable experience has sharpened my skills in computer vision.
+I am a Project Scientist at the esteemed Indian Institute of Technology (IIT) Delhi, collaborating closely with [Prof. Chetan Arora](https://www.cse.iitd.ac.in/~chetan/) and [Prof. Nandana Sengupta](https://spp.iitd.ac.in/faculty-profile/5). Currently, I am involved in the following projects:
+
+- Working on the project “Enhancing India’s Science, Technology, and Innovation Policy Analysis Capabilities” at the Indian Institute of Technology, Delhi.
+- Investigating possibilities of automated estimation of household-level economic variables – income and assets, typically measured using a detailed household survey.
+- Utilizing Transfer Learning techniques, specifically using Vision Transformers, and Metric Learning techniques to analyze images from four North-east states of India for the purpose of predicting household income.
+
+
 
 ### Research Interests
 
-Driven by a deep curiosity and a desire to make a meaningful impact, I am now seeking a Ph.D. opportunity in the field of computer vision, preferably in the United States. My goal is to push the boundaries of this exciting domain, contributing to advancements in areas such as Social Impact using Computer Vision, Generative AI, and Multimodality (Vision and NLP).
+Driven by a deep curiosity and a desire to make a meaningful impact, I am now seeking a Ph.D. opportunity in the field of computer vision. My goal is to push the boundaries of this exciting domain, contributing to advancements in areas such as Social Impact using Computer Vision, Generative AI, and Multimodality (Vision and NLP).
 
 ### Technical Skills
 
