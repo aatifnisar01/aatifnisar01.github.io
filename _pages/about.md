@@ -33,6 +33,4 @@ Throughout my academic journey, I have cultivated a strong research mindset, whi
 
 ### Collaboration and Communication
 
-Aside from my technical expertise, I possess excellent communication and teamwork skills, which have been nurtured through my collaborative research projects and participation in academic conferences. I believe that effective collaboration and knowledge-sharing are integral to achieving breakthroughs in computer vision research.
-
 Thank you for visiting my portfolio website. I invite you to explore my resume, publications, and achievements, and I look forward to connecting with fellow researchers, professors, and industry professionals who share a passion for advancing computer vision technology.
