@@ -11,11 +11,11 @@ redirect_from:
 
 My name is Aatif, and I am a passionate computer scientist specializing in the field of computer vision.
 
-I completed my Bachelor's degree in Computer Science from Delhi University, where I developed a solid foundation in various computer science disciplines. Building on this knowledge, I pursued my Master's degree in Computer Science from South Asian University, focusing on advanced topics in Machine Learning.
+I completed my Bachelor's degree in Computer Science from [Delhi University](https://www.du.ac.in/), where I developed a solid foundation in various computer science disciplines. Building on this knowledge, I pursued my Master's degree in Computer Science from [South Asian University](https://sau.int/), focusing on advanced topics in Machine Learning.
 
 ### Research Experience
 
-I am a Project Scientist at the esteemed Indian Institute of Technology (IIT) Delhi, collaborating closely with [Prof. Chetan Arora](https://www.cse.iitd.ac.in/~chetan/) and [Prof. Nandana Sengupta](https://spp.iitd.ac.in/faculty-profile/5). Currently, I am involved in the following work:
+I am a Project Scientist at the esteemed [Indian Institute of Technology (IIT) Delhi](https://home.iitd.ac.in/), collaborating closely with [Prof. Chetan Arora](https://www.cse.iitd.ac.in/~chetan/) and [Prof. Nandana Sengupta](https://spp.iitd.ac.in/faculty-profile/5). Currently, I am involved in the following work:
 
 - Working on the project “Enhancing India’s Science, Technology, and Innovation Policy Analysis Capabilities” in the Vision Lab at the Indian Institute of Technology, Delhi.
 - Investigating possibilities of automated estimation of household-level economic variables – income and assets, typically measured using a detailed household survey.
