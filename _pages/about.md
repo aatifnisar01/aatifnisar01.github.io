@@ -17,7 +17,7 @@ I completed my Bachelor's degree in Computer Science from Delhi University, wher
 
 I am a Project Scientist at the esteemed Indian Institute of Technology (IIT) Delhi, collaborating closely with [Prof. Chetan Arora](https://www.cse.iitd.ac.in/~chetan/) and [Prof. Nandana Sengupta](https://spp.iitd.ac.in/faculty-profile/5). Currently, I am involved in the following work:
 
-- Working on the project “Enhancing India’s Science, Technology, and Innovation Policy Analysis Capabilities” at the Indian Institute of Technology, Delhi.
+- Working on the project “Enhancing India’s Science, Technology, and Innovation Policy Analysis Capabilities” in the Vision Lab at the Indian Institute of Technology, Delhi.
 - Investigating possibilities of automated estimation of household-level economic variables – income and assets, typically measured using a detailed household survey.
 - Utilizing Transfer Learning techniques, specifically using Vision Transformers, and Metric Learning techniques to analyze images from four North-east states of India for the purpose of predicting household income.
 
@@ -33,4 +33,4 @@ Throughout my academic journey, I have cultivated a strong research mindset, whi
 
 ### Collaboration and Communication
 
-Thank you for visiting my portfolio website. I invite you to explore my resume, publications, and achievements, and I look forward to connecting with fellow researchers, professors, and industry professionals who share a passion for advancing computer vision technology.
+Thank you for visiting my portfolio website. I invite you to explore my resume, publications, and other writings, and I look forward to connecting with fellow researchers, professors, and industry professionals who share a passion for advancing computer vision technology.
