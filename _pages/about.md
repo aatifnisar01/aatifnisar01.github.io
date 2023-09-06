@@ -25,7 +25,7 @@ I am a Project Scientist at the esteemed [Indian Institute of Technology (IIT) D
 
 ### Research Interests
 
-Driven by a deep curiosity and a desire to make a meaningful impact, I am now seeking a Ph.D. opportunity in the field of computer vision. My goal is to push the boundaries of this exciting domain, contributing to advancements in areas such as Social Impact using Computer Vision, Generative AI, and Multimodality (Vision and NLP).
+Driven by a deep curiosity and a desire to make a meaningful impact, I am now seeking a Ph.D. opportunity in the field of computer vision. My goal is to push the boundaries of this exciting domain, contributing to advancements in areas such as Social Impact using Computer Vision, AI for Public Health,AI for Conservation, Human-Centered AI, and Algorithmic Governance.
 
 ### Technical Skills
 
