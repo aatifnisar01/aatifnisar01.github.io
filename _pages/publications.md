@@ -9,7 +9,7 @@ author_profile: true
 
 <ul>
   <li><em>“Economic status prediction using deep learning on household images,”</em> with Prof. Chetan Arora and Prof. Nandana Sengupta. (Working Paper)</li>
-  <li><strong>Aatif Nisar Dar</strong>, Reshma Rastogi, <em>“MLGAN: Addressing imbalance in multilabel learning using generative adversarial networks,”</em> <a href="https://www.ietcint.com/">ICETCI 2023</a>. (To Appear)</li>
+  <li><strong>Aatif Nisar Dar</strong>, Reshma Rastogi, “MLGAN: Addressing imbalance in multilabel learning using generative adversarial networks,” ICETCI 2023. (To Appear) - **Best Presented Award**</li>
   <li><strong>Aatif Nisar Dar</strong>, <em>“Principal Component Analysis,”</em> Global Scientific Journal, GSJ: Volume 9, Issue 7, July 2021, Online: ISSN 2320-9186. (Lightly Peer-reviewed)</li>
 </ul>
 
@@ -38,7 +38,7 @@ author_profile: true
     <strong>(Master's Dissertation) Generative Adversarial Networks and its Applications, South Asian University.</strong>
     <em>May '21 - May '22</em>
     <br>
-    ([Prof. Reshma Rastogi](https://sau.int/faculty/reshma-rastogi/))
+    [Prof. Reshma Rastogi](https://sau.int/faculty/reshma-rastogi/)
     <ul>
       <li>Executed GAN on MNIST Digit dataset and MNIST Fashion dataset with Self Attention Module and Spectral Normalization in both Generator and Discriminator. Added TTUR (Two Time Scale Update) to stabilize the training of the GAN.</li>
       <li>Implemented CycleGAN, Pix2PixGAN, StyleGAN, SMIT, and AttentionGAN on the CelebA dataset.</li>
@@ -50,6 +50,7 @@ author_profile: true
     Dissertation: [Link to the dissertation (coming soon)]
   </li>
 </ul>
+
 
 <ul>
   <li>
