@@ -25,7 +25,7 @@ I am a Project Scientist at the esteemed [Indian Institute of Technology (IIT) D
 
 ### Research Interests
 
-Driven by a deep curiosity and a desire to make a meaningful impact, I am now seeking a Ph.D. opportunity in the field of computer vision. I am interested in the questions of FATE (fairness, accountability, transparency, and ethics) in computer vision systems. 
+Driven by a deep curiosity and a desire to make a meaningful impact, I am now seeking a Ph.D. opportunity in the field of Human-centered AI. I am interested in the questions of FATE (fairness, accountability, transparency, and ethics) in AI (Computer Vision) systems. 
 
 ### Technical Skills
 

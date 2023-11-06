@@ -1,6 +1,6 @@
 ---
 permalink: /blog/
-title: "Blog"
+title: ""
 author_profile: true
 redirect_from: 
   - /md/
