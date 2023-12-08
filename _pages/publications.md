@@ -46,9 +46,9 @@ author_profile: true
       <li>Outcome of my dissertation was a novel architecture called MLGAN (Multi-Label Generative Adversarial Network), which was designed to address the challenge of data imbalance in multilabel datasets.</li>
     </ul>
     <!-- Placeholder for code link -->
-    <a href="https://github.com/aatifnisar01/MLGAN-Addressing-Imbalance-in-Multilabel-Learning-Using-Generative-Adversarial-Networks-">[Link to the code]</a>Code: 
+    Code: <a href="https://github.com/aatifnisar01/MLGAN-Addressing-Imbalance-in-Multilabel-Learning-Using-Generative-Adversarial-Networks-">Link to the code</a> 
     <!-- Placeholder for dissertation link -->
-    Dissertation: [Link to the dissertation (coming soon)]
+    Dissertation: <a href="http://aatifnisar01.github.io/files/MSc_Thesis.pdf" download>Link to the dissertation</a>
   </li>
 </ul>
 
