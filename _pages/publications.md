@@ -13,7 +13,11 @@ redirect_from:
   <li><strong>Aatif Nisar Dar</strong>, <em>“Principal Component Analysis,”</em> Global Scientific Journal, GSJ: Volume 9, Issue 7, July 2021, Online: ISSN 2320-9186. (Lightly Peer-reviewed)</li>
 </ul>
 
+
+
 ## Other Writings
+
+
 
 <ul>
   <li>
@@ -30,7 +34,11 @@ redirect_from:
   </li>
 </ul>
 
+
+
 ## Projects
+
+
 
 <ul>
   <li>
@@ -43,7 +51,7 @@ redirect_from:
       <li>Implemented CycleGAN, Pix2PixGAN, StyleGAN, SMIT, and AttentionGAN on the CelebA dataset.</li>
       <li>Outcome of my dissertation was a novel architecture called MLGAN (Multi-Label Generative Adversarial Network), which was designed to address the challenge of data imbalance in multilabel datasets.</li>
     </ul>
-    Code: <a href="https://github.com/aatifnisar01/MLGAN-Addressing-Imbalance-in-Multilabel-Learning-Using-Generative-Adversarial-Networks/">Link to the code</a> 
+    Code: <a href="https://github.com/aatifnisar01/MLGAN-Addressing-Imbalance-in-Multilabel-Learning-Using-Generative-Adversarial-Networks-.git">Link to the code</a> 
     Dissertation: <a href="http://aatifnisar01.github.io/files/MSc_Thesis.pdf" download>Link to the dissertation</a>
   </li>
 </ul>
