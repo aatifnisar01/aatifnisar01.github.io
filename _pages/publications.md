@@ -3,16 +3,15 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /resume
 ---
-
-
 
 <ul>
   <li><em><strong>Aatif Nisar Dar</strong>, Nandana Sengupta, and Chetan Arora, "Assessing the Feasibility and Ethics of Household Economic Status Prediction using Deep Learning on Images". (Working Paper)</li>
   <li><strong>Aatif Nisar Dar</strong> and Reshma Rastogi, "MLGAN: Addressing Imbalance in Multilabel Learning Using Generative Adversarial Networks," 2023 International Conference on Emerging Techniques in Computational Intelligence (ICETCI), Hyderabad, India, 2023, pp. 324-331, doi: 10.1109/ICETCI58599.2023.10331105. - <strong style="color:red">Best Presenter Award</strong></li>
   <li><strong>Aatif Nisar Dar</strong>, <em>“Principal Component Analysis,”</em> Global Scientific Journal, GSJ: Volume 9, Issue 7, July 2021, Online: ISSN 2320-9186. (Lightly Peer-reviewed)</li>
 </ul>
-
 
 ## Other Writings
 
@@ -31,13 +30,12 @@ author_profile: true
   </li>
 </ul>
 
-
 ## Projects
 
 <ul>
   <li>
     (Master's Dissertation) <strong>Generative Adversarial Networks and its Applications, South Asian University.</strong>
-    <em>May '21 - May '22</em>
+    <em>May 2021 - May 2022</em>
     <br>
     <a href="https://sau.int/faculty/reshma-rastogi/"><strong>Prof. Reshma Rastogi</strong></a>
     <ul>
@@ -45,14 +43,10 @@ author_profile: true
       <li>Implemented CycleGAN, Pix2PixGAN, StyleGAN, SMIT, and AttentionGAN on the CelebA dataset.</li>
       <li>Outcome of my dissertation was a novel architecture called MLGAN (Multi-Label Generative Adversarial Network), which was designed to address the challenge of data imbalance in multilabel datasets.</li>
     </ul>
-    <!-- Placeholder for code link -->
-    Code: <a href="https://github.com/aatifnisar01/MLGAN-Addressing-Imbalance-in-Multilabel-Learning-Using-Generative-Adversarial-Networks-">Link to the code</a> 
-    <!-- Placeholder for dissertation link -->
+    Code: <a href="https://github.com/aatifnisar01/MLGAN-Addressing-Imbalance-in-Multilabel-Learning-Using-Generative-Adversarial-Networks/">Link to the code</a> 
     Dissertation: <a href="http://aatifnisar01.github.io/files/MSc_Thesis.pdf" download>Link to the dissertation</a>
   </li>
 </ul>
-
-
 
 <ul>
   <li>
@@ -80,5 +74,3 @@ author_profile: true
     <a href="https://github.com/aatifnisar01/Attendence-System---Andriod">GitHub Repository</a>
   </li>
 </ul>
-
-
