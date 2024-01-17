@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aatif Nisar Dar"
   avatar           : "profile.png"
-  bio              : "Computer vision enthusiast leveraging tech for social impact."
+  bio              : "AI enthusiast leveraging tech for social impact."
   location         : 
   employer         :
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/Aatifnisar01"
   vine             :
   weibo            :
   xing             :
