@@ -10,7 +10,6 @@ redirect_from:
 
 You can reach out to me via email at:
 - aatif.dar11@gmail.com
-- Aatif.Nisar@sopp.iitd.ac.in
-- aatifdar@students.sau.ac.in
+- aatifn.cstaff@iitd.ac.in
 
-You can also connect with me on [LinkedIn](https://www.linkedin.com/in/aatif-nisar-dar-6906ab153/).
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/aatif-nisar-dar-6906ab153/) and [Twitter](https://twitter.com/Aatifnisar01).

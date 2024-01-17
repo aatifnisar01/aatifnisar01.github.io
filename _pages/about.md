@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,28 +9,18 @@ redirect_from:
 ---
 
 
-My name is Aatif, and I am a passionate computer scientist specializing in the field of computer vision.
+My name is Aatif, and I am a Research Associate at the [Indian Institute of Technology (IIT) Delhi](https://home.iitd.ac.in/), working with [Prof. Aaditeshwar Seth](https://www.cse.iitd.ac.in/~aseth/). Currently I am working on 1) Tracking Socio-economic Development in Rural India Using Satellite Imagery 2) Identification of water bodies and plantations from Google maps.
 
-I completed my Bachelor's degree in Computer Science from [Delhi University](https://www.du.ac.in/), where I developed a solid foundation in various computer science disciplines. Building on this knowledge, I pursued my Master's degree in Computer Science from [South Asian University](https://sau.int/), focusing on advanced topics in Machine Learning.
-
-### Research Experience
-
-I am a Project Scientist at the esteemed [Indian Institute of Technology (IIT) Delhi](https://home.iitd.ac.in/), collaborating closely with [Prof. Chetan Arora](https://www.cse.iitd.ac.in/~chetan/) and [Prof. Nandana Sengupta](https://spp.iitd.ac.in/faculty-profile/5). Currently, I am involved in the following work:
-
-- Working on the project “Enhancing India’s Science, Technology, and Innovation Policy Analysis Capabilities” in the Vision Lab at the Indian Institute of Technology, Delhi.
-- Investigating possibilities of automated estimation of household-level economic variables – income and assets, typically measured using a detailed household survey.
-- Utilizing Transfer Learning techniques, specifically using Vision Transformers, and Metric Learning techniques to analyze images from four North-east states of India for the purpose of predicting household income.
-
-
+Before this, I was a Project Scientist at IIT Delhi, working with [Prof. Nandana Sengupta](https://spp.iitd.ac.in/faculty-profile/5) and [Prof. Chetan Arora](https://www.cse.iitd.ac.in/~chetan/). I worked on investigating possibilities of automated estimation of household-level economic variables – income and assets, typically measured using a detailed household survey. 
 
 ### Research Interests
 
-Driven by a deep curiosity and a desire to make a meaningful impact, I am now seeking a Ph.D. opportunity in the field of Human-centered AI. I am interested in the questions of FATE (fairness, accountability, transparency, and ethics) in AI (Computer Vision) systems. 
+I am broadly interested in Human-centered computing, Responsible AI, and AI for social good. I often think about how there aren't enough people from different backgrounds in academia, leading me to reflect on how homogenized groups can influence ideas and research. My research goal is to make a meaningful impact using AI. 
+I am particularly interested in Trustworthy AI (i.e., on the issues related to fairness, accountability, transparency, and ethics). 
 
-### Technical Skills
+### Education 
 
-Throughout my academic journey, I have cultivated a strong research mindset, which has honed my ability to tackle complex problems, analyze data, and present my findings effectively. I am proficient in programming languages such as Python, C++, and MATLAB, and I am experienced in utilizing popular computer vision libraries and frameworks like OpenCV, PyTorch, and TensorFlow.
+I completed my Bachelor's degree in Computer Science from [Delhi University](https://www.du.ac.in/), where I developed a solid foundation in various computer science disciplines. Building on this knowledge, I pursued my Master's degree in Computer Science from [South Asian University (SAU)](https://sau.int/), focusing on advanced topics in Machine Learning. At SAU, I worked with [Prof. Reshma Rastogi](https://sau.int/faculty/reshma-rastogi/) for my thesis, which focussed on addressing the persistent challenge of data imbalance
+in Multi-Label datasets using Generative Adversarial Networks.
 
-### Collaboration and Communication
-
-Thank you for visiting my portfolio website. I invite you to explore my resume, publications, and other writings, and I look forward to connecting with fellow researchers, professors, and industry professionals who share a passion for advancing computer vision technology.
+When I am not working; I cook, I travel, and I eat. I look forward to connecting with fellow researchers, professors, and industry professionals and I am always open to having a discussion on AI. If you are interested, feel free to reach out via email or Twitter! 
