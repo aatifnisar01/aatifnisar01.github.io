@@ -15,7 +15,7 @@ redirect_from:
 - **Aatif Nisar Dar** and Reshma Rastogi, "MLGAN: Addressing Imbalance in Multilabel Learning Using Generative Adversarial Networks," 2023 International Conference on Emerging Techniques in Computational Intelligence (ICETCI), Hyderabad, India, 2023, pp. 324-331, doi: 10.1109/ICETCI58599.2023.10331105. - **Best Presenter Award**
 
 <small>Code: [Link to the code](https://github.com/aatifnisar01/MLGAN-Addressing-Imbalance-in-Multilabel-Learning-Using-Generative-Adversarial-Networks-.git)</small>  
-<small>Paper: [Link to the dissertation](https://ieeexplore.ieee.org/document/10331105)</small>
+<small>Paper: [Link to the Paper](https://ieeexplore.ieee.org/document/10331105)</small>
 
 
 - **Aatif Nisar Dar**, “Principal Component Analysis,” Global Scientific Journal, GSJ: Volume 9, Issue 7, July 2021, Online: ISSN 2320-9186. (Lightly Peer-reviewed)
