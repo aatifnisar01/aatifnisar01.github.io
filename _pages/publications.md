@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 redirect_from:
@@ -11,13 +11,13 @@ redirect_from:
 
 - **Aatif Nisar Dar**, Nandana Sengupta, and Chetan Arora, "Assessing the Feasibility and Ethics of Household Economic Status Prediction using Deep Learning on Images." ACM Journal on Computing and Sustainable Societies 2024 (Upcoming Paper) 
 
-Code: [Link to the code](https://github.com/aatifnisar01/AHI---IIT-Delhi.git)  
-Paper: [Link to the Paper] (Currently Unavailable)
+      <small>Code: [Link to the code](https://github.com/aatifnisar01/AHI---IIT-Delhi.git)</small>  
+      <small>Paper: [Link to the Paper] (Currently Unavailable)</small>
 
 - **Aatif Nisar Dar** and Reshma Rastogi, "MLGAN: Addressing Imbalance in Multilabel Learning Using Generative Adversarial Networks," 2023 International Conference on Emerging Techniques in Computational Intelligence (ICETCI), Hyderabad, India, 2023, pp. 324-331, doi: 10.1109/ICETCI58599.2023.10331105. - **Best Presenter Award**
 
-Code: [Link to the code](https://github.com/aatifnisar01/MLGAN-Addressing-Imbalance-in-Multilabel-Learning-Using-Generative-Adversarial-Networks-.git)  
-Paper: [Link to the dissertation](https://ieeexplore.ieee.org/document/10331105)
+      Code: [Link to the code](https://github.com/aatifnisar01/MLGAN-Addressing-Imbalance-in-Multilabel-Learning-Using-Generative-Adversarial-Networks-.git)  
+      Paper: [Link to the dissertation](https://ieeexplore.ieee.org/document/10331105)
 
 
 - **Aatif Nisar Dar**, “Principal Component Analysis,” Global Scientific Journal, GSJ: Volume 9, Issue 7, July 2021, Online: ISSN 2320-9186. (Lightly Peer-reviewed)
