@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+<div align="left">
 I am a Research Associate at the [Indian Institute of Technology (IIT) Delhi](https://home.iitd.ac.in/), working with [Prof. Aaditeshwar Seth](https://www.cse.iitd.ac.in/~aseth/) in the [ICTD lab](http://act4d.iitd.ac.in/). I am currently working on 1) Tracking Socio-economic Development in Rural India Using Satellite Imagery 2) Identification of water bodies, plantations, and cropfields from Google maps.
 
 Before this, I was a Project Scientist in the [Vision Lab](https://vision-iitd.github.io/) at IIT Delhi, working with [Prof. Nandana Sengupta](https://spp.iitd.ac.in/faculty-profile/5) and [Prof. Chetan Arora](https://www.cse.iitd.ac.in/~chetan/). I worked on investigating possibilities of automated estimation of household-level economic variables – income and assets, typically measured using a detailed household survey. 
@@ -29,3 +29,4 @@ I completed my Bachelor's degree in Computer Science from [Delhi University](htt
 in Multi-Label datasets using Generative Adversarial Networks.
 
 When I am not working, I cook, travel, and eat. I look forward to connecting with fellow researchers, professors, and industry professionals and I am always open to having a discussion on AI. If you are interested, feel free to reach out via email (aatif[dot]dar11[at]gmail.com) or Twitter! 
+</div>
