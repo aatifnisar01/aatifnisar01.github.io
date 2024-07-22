@@ -14,7 +14,7 @@ Before this, I was a Project Scientist in the [Vision Lab](https://vision-iitd.g
 
 ### Research Interests
 
-I am broadly interested in ICTD (Information Communications Technology for Development) and HCI (Human Computer Interaction). Through my research, I want to make a meaningful impact. Specifically, I'm interested in:
+I am broadly interested in ICTD (Information Communications Technology for Development), HCI (Human Computer Interaction), and Social Computing. Through my research, I want to make a meaningful impact. Specifically, I'm interested in:
 1. How can we promote social well-being of people in low-resource environments?
 2. How can we use technology for a more rewarding and easier path to innovations in Sustainability, Public Health, and Forest and Animal Conservation? 
 3. How can we address the interconnected impacts of hatred and mis/discommunication on the education, social mobility, and mental health of marginalized communities?

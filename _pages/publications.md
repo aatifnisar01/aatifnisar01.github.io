@@ -9,7 +9,7 @@ redirect_from:
 
 - **Aatif Nisar Dar**, Nandana Sengupta, and Chetan Arora, "Assessing the Feasibility and Ethics of Economic Status Prediction using Deep Learning on Household Images." ACM Journal on Computing and Sustainable Societies (2024). 
 
-<small>Code: [Link to the code](https://github.com/aatifnisar01/AHI---IIT-Delhi.git)</small>  
+<small>Code: [Link to the code](https://github.com/aatifnisar01/SocioEconomic-Status-Prediction-using-Household-Images.git)</small>  
 <small>paper: [Link to the Paper](https://dl.acm.org/doi/10.1145/3675160)</small>
 
 - **Aatif Nisar Dar** and Reshma Rastogi, "MLGAN: Addressing Imbalance in Multilabel Learning Using Generative Adversarial Networks," 2023 International Conference on Emerging Techniques in Computational Intelligence (ICETCI), Hyderabad, India, 2023, pp. 324-331, doi: 10.1109/ICETCI58599.2023.10331105. - **Best Presenter Award**
