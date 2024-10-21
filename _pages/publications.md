@@ -23,6 +23,10 @@ redirect_from:
 ## Posters/Workshops/Symposiums
 
 - **Aatif Nisar Dar**, Badrinath Padmanabhan, Mrunal Atul Kadane, Aaditeshwar Seth. "Using satellite images to track relative socio-economic development in rural India". <a href="http://aatifnisar01.github.io/files/COMPASS_Poster.pdf" download>Poster</a> presented at ACM COMPASS '24, New Delhi, India.
+
+<small>Code: [Link to the code](https://drive.google.com/drive/folders/1xtaTGiaPJxDLr2t4RRqHYyJBkS3NcXTm)</small>  
+<small>paper: <a href="http://aatifnisar01.github.io/files/RWI_Poster.pdf" download>Link to the Paper</a></small>
+
 - Research Week with Google 2024. (Funded travel)                     01 - 03 Feb '24
 - Symposium on Machine Learning, IIT - Bombay. (Funded travel)        21 - 23 Dec '23    
 
