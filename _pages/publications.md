@@ -20,6 +20,8 @@ redirect_from:
 
 - **Aatif Nisar Dar**, “Principal Component Analysis,” Global Scientific Journal, GSJ: Volume 9, Issue 7, July 2021, Online: ISSN 2320-9186. (Lightly Peer-reviewed)
 
+<small>Paper: [Link to the Paper](https://www.globalscientificjournal.com/researchpaper/Principal_Component_Analysis.pdf)</small>
+
 ## Posters/Workshops/Symposiums
 
 - **Aatif Nisar Dar**, Badrinath Padmanabhan, Mrunal Atul Kadane, Aaditeshwar Seth. "Using satellite images to track relative socio-economic development in rural India". <a href="http://aatifnisar01.github.io/files/COMPASS_Poster.pdf" download>Poster</a> presented at ACM COMPASS '24, New Delhi, India.
