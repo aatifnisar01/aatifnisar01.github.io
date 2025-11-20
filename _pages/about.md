@@ -22,13 +22,15 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a first year PhD student at `Virginia Tech`, working with Prof. [Shaddi Hasan](https://www.shaddih.com/). My research interests are in `Information and Communication Technologies for Development (ICTD)`, `AI/ML`, and `Remote Sensing`. 
 
-I am building <span class="playcard" tabindex="0" aria-describedby="playcard-appropriate">appropriate<span id="playcard-appropriate" class="playcard-tooltip" role="tooltip">Appropriate means that technologies should be designed keeping the social context in mind — what material is available locally, how tools can be repaired, who will use them, and how.</span></span> technologies to address socioeconomic inequalities and the digital divide.
+I am building appropriate[^1] technologies to address socioeconomic inequalities and the digital divide.
+
+[^1]: Appropriate means that technologies should be designed keeping the social context in mind — what material is available locally, how tools can be repaired, who will use them, and how.
 
 
