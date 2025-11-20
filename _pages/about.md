@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Virginia Tech</a>, Blacksburg - USA
 
 profile:
   align: right
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a first year PhD student at `Virginia Tech`, working with Prof. [Shaddi Hasan](https://www.shaddih.com/). My research interests are in `Information and Communication Technologies for Development (ICTD)`, `AI/ML`, and `Remote Sensing`. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am building <details class="playcard" style="display:inline;"> <summary style="display:inline; cursor:help; text-decoration:underline dotted;">appropriate</summary> <span>Appropriate means that technologies should be designed keeping the social context in mind — what material is available locally, how tools can be repaired, who will use them, and how.</span></details> technologies to address socioeconomic inequalities and the digital divide.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
