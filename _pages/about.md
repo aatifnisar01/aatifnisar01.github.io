@@ -29,8 +29,6 @@ latest_posts:
 
 I am a first year PhD student at `Virginia Tech`, working with Prof. [Shaddi Hasan](https://www.shaddih.com/). My research interests are in `Information and Communication Technologies for Development (ICTD)`, `AI/ML`, and `Remote Sensing`. 
 
-I am building appropriate[^1] technologies to address socioeconomic inequalities and the digital divide.
-
-[^1]: Appropriate means that technologies should be designed keeping the social context in mind — what material is available locally, how tools can be repaired, who will use them, and how.
+I am building <span class="playcard" tabindex="0" aria-describedby="playcard-appropriate">appropriate<span id="playcard-appropriate" class="playcard-tooltip" role="tooltip">Appropriate means that technologies should be designed keeping the social context in mind — what material is available locally, how tools can be repaired, who will use them, and how.</span></span> technologies to address socioeconomic inequalities and the digital divide. These research interests are shaped by my past research experiences. I worked as a project scientist with Prof. [Aaditeshwar Seth](https://www.cse.iitd.ac.in/~aseth/) in the ICTD lab of IIT Delhi. 
 
 
