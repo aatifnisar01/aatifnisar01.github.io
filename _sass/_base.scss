@@ -1496,3 +1496,44 @@ figure.cover {
 mjx-container[jax="CHTML"][display="true"] {
   overflow-x: auto;
 }
+
+/* Inline playcard tooltip for definitions (hover/focus) */
+.playcard {
+  position: relative;
+  display: inline;
+  cursor: help;
+  text-decoration: underline dotted;
+}
+
+.playcard .playcard-tooltip {
+  display: none;
+  position: absolute;
+  bottom: 120%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--global-card-bg-color);
+  color: var(--global-text-color);
+  border: 1px solid var(--global-divider-color);
+  padding: 0.35rem 0.5rem;
+  border-radius: 4px;
+  white-space: nowrap;
+  font-size: 0.9rem;
+  z-index: 50;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+.playcard:hover .playcard-tooltip,
+.playcard:focus-within .playcard-tooltip {
+  display: block;
+}
+
+.playcard .playcard-tooltip::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border-width: 6px;
+  border-style: solid;
+  border-color: var(--global-card-bg-color) transparent transparent transparent;
+}

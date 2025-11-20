@@ -29,6 +29,6 @@ latest_posts:
 
 I am a first year PhD student at `Virginia Tech`, working with Prof. [Shaddi Hasan](https://www.shaddih.com/). My research interests are in `Information and Communication Technologies for Development (ICTD)`, `AI/ML`, and `Remote Sensing`. 
 
-I am building <details class="playcard" style="display:inline;"> <summary style="display:inline; cursor:help; text-decoration:underline dotted;">appropriate</summary> <span>Appropriate means that technologies should be designed keeping the social context in mind — what material is available locally, how tools can be repaired, who will use them, and how.</span></details> technologies to address socioeconomic inequalities and the digital divide.
+I am building <span class="playcard" tabindex="0" aria-describedby="playcard-appropriate">appropriate<span id="playcard-appropriate" class="playcard-tooltip" role="tooltip">Appropriate means that technologies should be designed keeping the social context in mind — what material is available locally, how tools can be repaired, who will use them, and how.</span></span> technologies to address socioeconomic inequalities and the digital divide.
 
 
