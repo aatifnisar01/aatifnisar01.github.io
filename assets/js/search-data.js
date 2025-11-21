@@ -4,13 +4,13 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "Download my resume.",
           section: "Navigation",
           handler: () => {
@@ -421,74 +421,46 @@ ninja.data = [{
           window.open("https://bsky.app/profile/aatifnd.bsky.social", "_blank");
         },
       },{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
-        },
-      },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/https://github.com/aatifnisar01", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://github.com/aatifnisar01", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/aatif-nisar-6906ab153/", "_blank");
+          window.open("https://www.linkedin.com/in/aatif-nisar-6906ab153", "_blank");
         },
       },{
         id: 'social-medium',
         title: 'Medium',
         section: 'Socials',
         handler: () => {
-          window.open("https://medium.com/@https://medium.com/@aatifdar", "_blank");
+          window.open("https://medium.com/@aatifdar", "_blank");
         },
       },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Aatif-Dar-2?ev=hdr_xprf/", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.researchgate.net/profile/Aatif-Dar-2/", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=Waij5hcAAAAJ&hl=en", "_blank");
+          window.open("https://scholar.google.com/citations?user=Waij5hcAAAAJ", "_blank");
         },
       },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("https://twitter.com/https://x.com/Aatifnd", "_blank");
+          window.open("https://twitter.com/Aatifnd", "_blank");
         },
       },{
       id: 'light-theme',
