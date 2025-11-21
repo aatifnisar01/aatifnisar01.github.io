@@ -1,4 +1,3 @@
-{% bibliography %}
 ---
 layout: page
 permalink: /publications/
