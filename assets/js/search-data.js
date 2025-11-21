@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
+  },{id: "nav-publications",
+          title: "Publications",
+          description: "Check my [Google Scholar](https://scholar.google.com/citations?user=Waij5hcAAAAJ&amp;hl=en)",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
+        },{id: "nav-cv",
           title: "CV",
           description: "Download my resume.",
           section: "Navigation",
