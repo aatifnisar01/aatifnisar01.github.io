@@ -1,8 +1,8 @@
 ---
 layout: post
-date: August'25 - June'26
+date: September '26
 inline: true
 related_posts: false
 ---
 
-Thrilled to share I received the Remote Sensing Interdisciplinary Graduate Education Program fellowship! 🎉🌍📡
+Presented our work at TPRC '26 in Washington, D.C., and received funding to attend the TPRC Graduate Student Workshop! 🎉
